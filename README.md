@@ -213,9 +213,9 @@ This project is open source and available under the MIT License.
 
 **Sarthak**
 - Email: sarthak.molu08@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sarthak-5272b32b2)
+- GitHub: [GitHub](https://github.com/molubhai08)
+- Portfolio: [Portfolio](https://molubhai08.github.io/new_portfolio/)
 
 ## 🙏 Acknowledgments
 
