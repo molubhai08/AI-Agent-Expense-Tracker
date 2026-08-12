@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+crewai
+groq
+python-dotenv
+mysql-connector-python
+sqlalchemy
+pyaudio
+wave
+vosk
+gtts
+sarvamai
